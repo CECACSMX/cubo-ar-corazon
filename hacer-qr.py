@@ -8,7 +8,7 @@ ejecutarlo pasando la URL buena y regenerar los PDF de las plantillas.
 import sys
 import qrcode
 
-URL = sys.argv[1] if len(sys.argv) > 1 else "https://angelortiz90.github.io/cubo-ar-corazon/"
+URL = sys.argv[1] if len(sys.argv) > 1 else "https://cecacsmx.github.io/cubo-ar-corazon/"
 
 qr = qrcode.QRCode(version=None, error_correction=qrcode.constants.ERROR_CORRECT_M, box_size=10, border=2)
 qr.add_data(URL)

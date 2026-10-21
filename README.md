@@ -63,7 +63,7 @@ Para webcams de portátil conviene la versión de **8 cm**.
 
 La cámara del móvil exige **HTTPS**, así que hay que publicar la carpeta (GitHub Pages:
 Settings → Pages → Deploy from branch → `main`, raíz). El QR impreso apunta a
-`https://angelortiz90.github.io/cubo-ar-corazon/`; **si el repositorio acaba con otro
+`https://cecacsmx.github.io/cubo-ar-corazon/`; **si el repositorio acaba con otro
 nombre, regenerar el QR** con `python hacer-qr.py <URL buena>` y volver a generar los PDF.
 
 ### Regenerar los PDF
