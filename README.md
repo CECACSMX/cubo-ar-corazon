@@ -143,3 +143,9 @@ flujo de trabajo de Blender del proyecto; ver ese archivo para origen, autor y l
 La fuente MSDF deriva de **DejaVu Sans** (licencia DejaVu Fonts, libre y redistribuible).
 Los marcadores proceden de la colección oficial de AR.js
 (`artoolkit-barcode-markers-collection`).
+
+## Licencia
+
+© 2026 Angel Ortiz. El código (visor, plantillas, scripts) y el contenido propio se publican con
+licencia MIT (ver `LICENSE`). El modelo 3D del corazón y los demás recursos de terceros conservan
+su licencia, tal como se detalla en `CREDITOS.md`.
