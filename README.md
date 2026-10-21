@@ -146,6 +146,7 @@ Los marcadores proceden de la colección oficial de AR.js
 
 ## Licencia
 
-© 2026 Angel Ortiz. El código (visor, plantillas, scripts) y el contenido propio se publican con
+© 2026 Angel Ortiz. Desarrollado con ayuda de IA (Claude, de Anthropic), bajo la dirección y
+revisión del autor. El código (visor, plantillas, scripts) y el contenido propio se publican con
 licencia MIT (ver `LICENSE`). El modelo 3D del corazón y los demás recursos de terceros conservan
 su licencia, tal como se detalla en `CREDITOS.md`.
